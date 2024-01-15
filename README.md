@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://open.spotify.com/embed/track/4kLLWz7srcuLKA7Et40PQR?utm_source=generator)
+(https://open.spotify.com/embed/track/4kLLWz7srcuLKA7Et40PQR?utm_source=generator)
 
 ---
 
