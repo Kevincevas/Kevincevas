@@ -24,13 +24,9 @@
 
 ### Contact with me 📝
 
-### [<img align="left" alt="bilgehangecici.site" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-<br />
 [<img align="left" alt="Kevin Cevallos | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-<br />
+
 [<img align="left" alt="Kevin Cevallos | Gmail" height="30px" src="https://mail.google.com/favicon.ico" />][gmail]
-<br />
-### [<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
 
 <br />
 
