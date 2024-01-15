@@ -24,7 +24,7 @@
 
 ### Contact with me 📝
 
-[<img align="left" alt="Kevin Cevallos | Gmail" height="30px" src="https://mail.google.com/favicon.ico" />][gmail]
+
 [<img align="left" alt="Kevin Cevallos | LinkedIn" height="30px" src="http://www.w3.org/2000/svg"/>][linkedin]
 
 <br />
