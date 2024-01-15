@@ -25,7 +25,6 @@
 ### Contact with me 📝
 
 [<img align="left" alt="Kevin Cevallos | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-
 [<img align="left" alt="Kevin Cevallos | Gmail" height="30px" src="https://mail.google.com/favicon.ico" />][gmail]
 
 <br />
