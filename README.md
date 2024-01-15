@@ -81,7 +81,7 @@
 ---
 
 
-[gmail]: cevas102@gmail.com
+[gmail]: (https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new)
 [linkedin]: https://www.linkedin.com/in/kevin-cevallos-286221252/
 
 
