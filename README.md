@@ -20,9 +20,12 @@
 ### Contact with me 📝
 
 
-[<img align="left" alt="Kevin Cevallos | LinkedIn" height="30px" src="https://img.shields.io/badge/-Kevin%20Cevallos%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>][linkedin]
+
 
 <p align="center">
+  <a>
+    [<img align="left" alt="Kevin Cevallos | LinkedIn" height="30px" src="https://img.shields.io/badge/-Kevin%20Cevallos%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>][linkedin]
+  <a/>
   <a href="https://www.facebook.com/kevin100000000" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
   </a>
