@@ -85,10 +85,10 @@
 
 ---
 
-### [website]: http://bilgehangecici.site/
+
 [gmail]: cevas102@gmail.com
 [linkedin]: https://www.linkedin.com/in/kevin-cevallos-286221252/
-### [Spotify]: https://open.spotify.com/user/11153360645
+
 
 
 ----
