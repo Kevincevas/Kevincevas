@@ -11,15 +11,7 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-![Spotify](https://open.spotify.com/embed/track/4kLLWz7srcuLKA7Et40PQR?utm_source=generator)
-
----
-
-![Spotify]![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -29,6 +21,15 @@
 
 
 [<img align="left" alt="Kevin Cevallos | LinkedIn" height="30px" src="https://img.shields.io/badge/-Kevin%20Cevallos%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/>][linkedin]
+
+<p align="center">
+  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
+  </a>
+  <a href="https://instagram.com/_.lil.huy._" target="_blank">
+    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
+  </a>
+</p>
 
 <br />
 
