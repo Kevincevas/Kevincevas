@@ -99,9 +99,7 @@
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/linux.svg" alt="Linux" height="40"/></code>
   </a>
-  <a href="https://docker.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
-  </a>
+  
 </p>
 
 <br>
